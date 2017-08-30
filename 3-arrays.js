@@ -10,7 +10,7 @@ myArray.push("Coffe");
 
 console.log('Efter', myArray);
 
-var tweets = ["Hey", "What's up?", "Check this out!"];
+var tweets = ["Hey", "What's up?ht", "Check this out!"];
 
 console.log(tweets);
 
